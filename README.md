@@ -1,2 +1,1 @@
-# GettingStartedWithCNN
-An introduction to working with convolutional neural networks!
+# Learn to Build and Apply Your Own Convolutional Neural Network!
